@@ -79,7 +79,13 @@ a:hover {
 .bg-t-edge {
   background: top no-repeat;
 }
-
+.citation {
+  font-size: 24px;
+}
+.citation1 {
+  font-size: 20px;
+  color: #575757;
+}
 .bloc-bg-texture::before {
   content: "";
   background-size: 2px 2px;
