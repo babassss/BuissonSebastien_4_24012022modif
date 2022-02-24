@@ -79,18 +79,20 @@ a:hover {
 .bg-t-edge {
   background: top no-repeat;
 }
-.citation,
-.citation2 {
+.citation {
   font-size: 24px;
+  color: #575757;
+  width: 636px;
+  margin: auto;
 }
-.citation1 {
+/*.citation1 {
   font-size: 20px;
   color: #575757;
 }
 .citation2 {
   width: 466px;
   margin: auto;
-}
+}*/
 .bloc-bg-texture::before {
   content: "";
   background-size: 2px 2px;
