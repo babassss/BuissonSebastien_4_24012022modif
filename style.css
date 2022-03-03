@@ -720,7 +720,7 @@ p {
 }
 
 h2 {
-  font-size: 22px;
+  font-size: 17px;
   line-height: 1.4em;
 }
 
@@ -751,7 +751,7 @@ h4 {
 }
 
 .white {
-  color: #ffffff !important;
+  color: #3c383b !important;
 }
 
 .portfolio-thumb {
@@ -790,12 +790,12 @@ h4 {
 }
 
 .tc-white {
-  color: #ffff9a !important;
+  color: #fae3d6 !important;
 }
 
 .btn-atomic-tangerine {
-  background: #801ace;
-  color: #ffff9a !important;
+  background: #f3976c;
+  color: #171717 !important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -854,7 +854,7 @@ h4 {
   }
 }
 
-@media (max-width: 992px) and (min-width: 768px) {
+@media (min-width: 768px) and (max-width: 992px) {
   .navbar .nav {
     max-width: 80%;
   }
