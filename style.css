@@ -85,14 +85,6 @@ a:hover {
   width: 636px;
   margin: auto;
 }
-/*.citation1 {
-  font-size: 20px;
-  color: #575757;
-}
-.citation2 {
-  width: 466px;
-  margin: auto;
-}*/
 .bloc-bg-texture::before {
   content: "";
   background-size: 2px 2px;
@@ -691,12 +683,12 @@ a {
   margin: auto auto auto auto;
 }
 
-/*p {
-  font-size: 11px;
-}*/
+p {
+  margin: 0 0 5px;
+}
 
 .tight-width-whitespace {
-  max-width: 600px;
+  max-width: 477px;
   margin: auto auto auto auto;
 }
 
@@ -704,7 +696,9 @@ a {
   font-size: 20px;
   font-family: "Open Sans";
 }
-
+.adresse {
+  width: 254px;
+}
 .cta-hero {
   margin-top: 22px;
   color: #ffffff !important;
