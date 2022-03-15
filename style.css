@@ -924,6 +924,10 @@ h4 {
   .b-parallax {
     background-attachment: scroll;
   }
+  .citation {
+    font-size: 22px;
+    width: auto;
+  }
   .navbar .nav {
     padding-top: 0;
     border-top: 1px solid rgba(0, 0, 0, 0.2);
