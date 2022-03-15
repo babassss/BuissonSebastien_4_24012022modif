@@ -655,7 +655,6 @@ h3,
 h4,
 h5,
 h6,
-p,
 label,
 .btn,
 a {
@@ -748,7 +747,7 @@ h4 {
 }
 
 .white {
-  color: #3c383b !important;
+  color: black !important;
 }
 
 .portfolio-thumb {
@@ -787,9 +786,11 @@ h4 {
 }
 
 .tc-white {
-  color: #17171a !important;
+  color: #fef5f1 !important;
 }
-
+.tc-white1 {
+  color: #ffffff;
+}
 .btn-atomic-tangerine {
   background: #f3976c;
   color: #171717 !important;
